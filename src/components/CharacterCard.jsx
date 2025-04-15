@@ -1,0 +1,1 @@
+/* CharacterCard.jsx 전체 코드 */
