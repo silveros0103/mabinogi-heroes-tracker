@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import CharacterCard from "./components/CharacterCard";
-import { useFirebase } from "./hooks/useFirebase";
+import { useFirebase } from "./hooks/useFirebase.jsx";
 import { calculateAverageProgress } from "./utils/progressUtils";
 
 export default function App() {
